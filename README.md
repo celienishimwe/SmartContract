@@ -44,6 +44,6 @@ npx hardhat run scripts/deploy.js --network coretestnet
 
 ## Images showing how it will look like
 
-![Deploy](.image/img1.png)
+![Deploy](./image/img1.png)
 
-![Test](.image/img2.png)
+![Test](./image/img2.png)
